@@ -2,189 +2,83 @@
 
 **`Desenvolvedor Python e BI`**
 
-Oi! Me chamo Jeffersom, tenho 19 anos e sou de Pato Branco, no Paraná. Terminei o ensino médio no Colégio Estadual de Pato Branco, junto com o curso técnico em Desenvolvimento de Sistemas. Hoje, sigo nessa mesma vibe e estou cursando Análise e Desenvolvimento de Sistemas na UTFPR.
-Sou apaixonado por tudo que envolve dados e inteligência artificial. Apesar disso, também tenho um pezinho no front-end, curtindo o lado visual e interativo dos projetos. Estou sempre buscando aprender e evoluir.
+👋 Olá! Sou **Jeffersom Schissler**, tenho 19 anos e sou de **Pato Branco (PR)**.  
+Sou **Desenvolvedor Python** com foco em **Business Intelligence** e estudante de **Análise e Desenvolvimento de Sistemas** na **UTFPR**.  
 
-## 🚀 Meus Projetos Principais
+Apaixonado por **dados, automação e inteligência artificial**, gosto de transformar informação em soluções inteligentes.  
+Também curto o lado **visual e interativo** do desenvolvimento web — especialmente quando envolve **React** e **visualização de dados**.
 
-### 🐍 Calculadora em Python
+---
 
-<a href="https://github.com/Larissakich/calculadora-python">
-  <img 
-    src="https://img.shields.io/badge/Ver%20Projeto-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
-    alt="Calculadora em Python"
-  />
+## 🚀 Projetos
+
+### ⭐ Principais Projetos
+<a href="https://github.com/JeffersomSchissler/calculadora-python">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-Calculadora%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a> &nbsp;
+<a href="https://github.com/JeffersomSchissler/dashboard-react">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-Dashboard%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </a>
 
 ---
 
-### 🌐 Site Pessoal (HTML/CSS)
-
-<a href="https://github.com/Larissakich/site-pessoal">
-  <img 
-    src="https://img.shields.io/badge/Ver%20Projeto-HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
-    alt="Site Pessoal"
-  />
+### 📊 Projetos de BI
+<a href="https://github.com/JeffersomSchissler/projeto-bi">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-Dashboard%20BI-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white" />
+</a> &nbsp;
+<a href="https://github.com/JeffersomSchissler/analise-dados-python">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-An%C3%A1lise%20de%20Dados-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 
 ---
 
-### ⚡ To-do List com JavaScript
-
-<a href="https://github.com/Larissakich/todo-js">
-  <img 
-    src="https://img.shields.io/badge/Ver%20Projeto-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
-    alt="To-do List JS"
-  />
+### 💻 Projetos Front-end
+<a href="https://github.com/JeffersomSchissler/site-pessoal">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-Site%20Pessoal-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</a> &nbsp;
+<a href="https://github.com/JeffersomSchissler/todo-js">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-To--do%20List-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </a>
 
 ---
 
-### 📊 Dashboard com React
+## 🧰 Tecnologias e Ferramentas
 
-<a href="https://github.com/Larissakich/dashboard-react">
-  <img 
-    src="https://img.shields.io/badge/Ver%20Projeto-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" 
-    alt="Dashboard React"
-  />
-</a>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<img alt="Python" title="Python" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="JavaScript" title="JavaScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="TypeScript" title="TypeScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img alt="React" title="React" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img alt="Next.js" title="Next.js" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img alt="HTML5" title="HTML5" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS3" title="CSS3" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="TailwindCSS" title="TailwindCSS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+<img alt="Bootstrap" title="Bootstrap" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img alt="SASS" title="SASS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+<img alt="PHP" title="PHP" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img alt="Laravel" title="Laravel" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+<img alt="jQuery" title="jQuery" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
+<img alt="Git" title="Git" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 📊 Estatísticas do GitHub
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffersomSchissler&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersomSchissler&layout=compact&langs_count=9&theme=tokyonight"/>
+</div>
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+## 📫 Onde me encontrar
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<a href="https://www.linkedin.com/in/jeffersomschissler/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Jeffersom%20Schissler-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> &nbsp;
+<a href="mailto:jeffersom.schissler@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jeffersom.schissler%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
