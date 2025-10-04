@@ -71,7 +71,8 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
 <a href="https://www.linkedin.com/in/jeffersom-schissler-junior-1b5a05260/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Jeffersom%20Schissler-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:jeffersomjunior555@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jeffersomjunior555%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:Jeffersomjunior555@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Jeffersomjunior555%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 
