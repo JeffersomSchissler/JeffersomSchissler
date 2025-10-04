@@ -21,7 +21,7 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
 ### 📊 Projetos de BI
 <a href="https://github.com/JeffersomSchissler/projeto-bi">
   <img src="https://img.shields.io/badge/Ver%20Projeto-Dashboard%20BI-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white" />
-</a> &nbsp;
+</a>
 <a href="https://github.com/JeffersomSchissler/analise-dados-python">
   <img src="https://img.shields.io/badge/Ver%20Projeto-An%C3%A1lise%20de%20Dados-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </a>
@@ -31,7 +31,7 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
 ### 💻 Projetos Front-end
 <a href="https://github.com/JeffersomSchissler/site-pessoal">
   <img src="https://img.shields.io/badge/Ver%20Projeto-Site%20Pessoal-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</a> &nbsp;
+</a>
 <a href="https://github.com/JeffersomSchissler/todo-js">
   <img src="https://img.shields.io/badge/Ver%20Projeto-To--do%20List-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </a>
@@ -70,7 +70,7 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
 
 <a href="https://www.linkedin.com/in/jeffersom-schissler-junior-1b5a05260/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Jeffersom%20Schissler-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> &nbsp;
+</a>
 <a href="mailto:jeffersom.schissler@gmail.com">
   <img src="https://img.shields.io/badge/Email-jeffersomjunior555%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
