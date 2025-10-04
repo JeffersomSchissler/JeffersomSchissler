@@ -14,10 +14,7 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
 
 <a href="https://github.com/JeffersomSchissler/calculadora-python">
   <img src="https://img.shields.io/badge/Ver%20Projeto-Calculadora%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a> &nbsp;
-<a href="https://github.com/JeffersomSchissler/dashboard-react">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-Dashboard%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</a>
+</a>;
 
 ---
 
