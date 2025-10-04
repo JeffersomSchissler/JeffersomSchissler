@@ -29,8 +29,8 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
 ---
 
 ### 💻 Projetos Front-end
-<a href="https://github.com/JeffersomSchissler/site-pessoal">
-  <img src="https://github.com/JeffersomSchissler/Interface-para-Site-de-filmes" />
+<a href="https://github.com/JeffersomSchissler/Interface-para-Site-de-filmes">
+  <img src="https://img.shields.io/badge/Ver%20Interface-FrontEnd-67459F?style=for-the-badge&logo=HTML5&logoColor=white" />
 </a> &nbsp;
 <a href="https://github.com/JeffersomSchissler/todo-js">
   <img src="https://img.shields.io/badge/Ver%20Projeto-To--do%20List-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
