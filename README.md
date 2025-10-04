@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python e BI`**
 
-👋 Olá! Sou **Jeffersom Schissler**, tenho 19 anos e sou de **Pato Branco (PR)**.  
+Olá! Sou **Jeffersom Schissler**, tenho 19 anos e sou de **Pato Branco (PR)**.  
 Sou **Desenvolvedor Python** com foco em **Business Intelligence** e estudante de **Análise e Desenvolvimento de Sistemas** na **UTFPR**.  
 
 Apaixonado por **dados, automação e inteligência artificial**, gosto de transformar informação em soluções inteligentes.  
@@ -53,7 +53,6 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
 <img alt="TailwindCSS" title="TailwindCSS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 <img alt="Bootstrap" title="Bootstrap" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img alt="SASS" title="SASS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-<img alt="jQuery" title="jQuery" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
 <img alt="Git" title="Git" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img alt="Java" title="Java" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img alt="C" title="C" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
