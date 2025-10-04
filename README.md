@@ -6,13 +6,12 @@
 Sou **Desenvolvedor Python** com foco em **Business Intelligence** e estudante de **Análise e Desenvolvimento de Sistemas** na **UTFPR**.  
 
 Apaixonado por **dados, automação e inteligência artificial**, gosto de transformar informação em soluções inteligentes.  
-Também curto o lado **visual e interativo** do desenvolvimento web — especialmente quando envolve **React** e **visualização de dados**.
+Também curto o lado **visual e interativo** do desenvolvimento web.
 
 ---
 
 ## 🚀 Projetos
 
-### ⭐ Principais Projetos
 <a href="https://github.com/JeffersomSchissler/calculadora-python">
   <img src="https://img.shields.io/badge/Ver%20Projeto-Calculadora%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a> &nbsp;
@@ -48,28 +47,25 @@ Também curto o lado **visual e interativo** do desenvolvimento web — especial
 
 <img alt="Python" title="Python" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img alt="JavaScript" title="JavaScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img alt="TypeScript" title="TypeScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img alt="React" title="React" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img alt="Next.js" title="Next.js" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
 <img alt="HTML5" title="HTML5" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img alt="CSS3" title="CSS3" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img alt="TailwindCSS" title="TailwindCSS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 <img alt="Bootstrap" title="Bootstrap" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img alt="SASS" title="SASS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-<img alt="PHP" title="PHP" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img alt="Laravel" title="Laravel" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
 <img alt="jQuery" title="jQuery" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
 <img alt="Git" title="Git" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
+<img alt="Java" title="Java" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img alt="C" title="C" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img alt="SQL" title="SQL / Banco de Dados" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img alt="Power BI" title="Power BI" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffersomSchissler&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersomSchissler&layout=compact&langs_count=9&theme=tokyonight"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=JeffersomSchissler&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersomSchissler&layout=compact&langs_count=9&theme=tokyonight"/>
 </div>
 
 ---
