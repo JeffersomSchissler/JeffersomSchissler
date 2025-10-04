@@ -14,14 +14,14 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
 
 <a href="https://github.com/JeffersomSchissler/calculadora-python">
   <img src="https://img.shields.io/badge/Ver%20Projeto-Calculadora%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a>
+</a> &nbsp;
 
 ---
 
 ### 📊 Projetos de BI
 <a href="https://github.com/JeffersomSchissler/projeto-bi">
   <img src="https://img.shields.io/badge/Ver%20Projeto-Dashboard%20BI-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white" />
-</a>
+</a> &nbsp;
 <a href="https://github.com/JeffersomSchissler/analise-dados-python">
   <img src="https://img.shields.io/badge/Ver%20Projeto-An%C3%A1lise%20de%20Dados-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </a>
@@ -31,7 +31,7 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
 ### 💻 Projetos Front-end
 <a href="https://github.com/JeffersomSchissler/site-pessoal">
   <img src="https://img.shields.io/badge/Ver%20Projeto-Site%20Pessoal-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
+</a> &nbsp;
 <a href="https://github.com/JeffersomSchissler/todo-js">
   <img src="https://img.shields.io/badge/Ver%20Projeto-To--do%20List-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </a>
@@ -62,11 +62,11 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=JeffersomSchissler&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersomSchissler&layout=compact&langs_count=9&theme=tokyonight"/>
-</div>
+</div> &nbsp;
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 Contatos e Redes
 
 <a href="https://www.linkedin.com/in/jeffersom-schissler-junior-1b5a05260/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Jeffersom%20Schissler-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
