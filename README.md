@@ -22,7 +22,7 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
 <a href="https://github.com/JeffersomSchissler/projeto-bi">
   <img src="https://img.shields.io/badge/Ver%20Projeto-Dashboard%20BI-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white" />
 </a> &nbsp;
-<a href="https://github.com/JeffersomSchissler/analise-dados-python">
+<a href="[https://github.com/JeffersomSchissler/analise-dados-python](https://github.com/JeffersomSchissler/Analise-de-Dados-Python)">
   <img src="https://img.shields.io/badge/Ver%20Projeto-An%C3%A1lise%20de%20Dados-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 
