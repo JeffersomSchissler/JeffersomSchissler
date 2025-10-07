@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Jeffersom Schissler
 
-**`Desenvolvedor Python, BI e Analista de Qualidade`**
+**`Desenvolvedor Python, BI e QA`**
 
 Olá! Sou **Jeffersom Schissler**, tenho 19 anos e sou de **Pato Branco (PR)**.  
 Sou **Desenvolvedor Python** com foco em **Business Intelligence** e estudante de **Análise e Desenvolvimento de Sistemas** na **UTFPR**.  
