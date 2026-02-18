@@ -16,7 +16,7 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
   <img src="https://img.shields.io/badge/Ver%20Projeto-Calculadora%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a> &nbsp;
 <a href="https://github.com/JeffersomSchissler/testeQA">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-Automação-Playwright-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ver%20Projeto-Automação%2Playwright%2Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a> &nbsp;
 
 ---
