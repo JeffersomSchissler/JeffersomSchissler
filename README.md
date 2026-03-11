@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Jeffersom Schissler
 
-**`Desenvolvedor Python e QA`**
+**`Desenvolvedor Python`**
 
 Olá! Sou **Jeffersom Schissler**, tenho 19 anos e sou de **Pato Branco (PR)**.  
 Sou **Desenvolvedor Python** e estudante de **Análise e Desenvolvimento de Sistemas** na **UTFPR**.  
@@ -18,8 +18,8 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
 <a href="https://github.com/JeffersomSchissler/testeQA">
   <img src="https://img.shields.io/badge/Ver%20Projeto-Automação%20%7C%20Playwright%20%7C%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>&nbsp;
-<a href="https://github.com/JeffersomSchissler/django_Sistema_Financeiro">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-Sistema%20Financeiro%20%7C%20Django%20%7C%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<a href="https://github.com/JeffersomSchissler/django_Estoque">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-Sistema%20Estoque%20%7C%20Django%20%7C%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a> &nbsp;
 
 ### 📊 Projetos de BI
