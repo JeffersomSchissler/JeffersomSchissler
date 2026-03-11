@@ -13,13 +13,15 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
 ## 🚀 Projetos
 
 <a href="https://github.com/JeffersomSchissler/calculadora-python">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-Calculadora%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ver%20Projeto-Calculadora%20Python-3A86FF?style=for-the-badge&logo=python&logoColor=white" />
 </a> &nbsp;
+
 <a href="https://github.com/JeffersomSchissler/testeQA">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-Automação%20%7C%20Playwright%20%7C%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/Ver%20Projeto-Automação%20%7C%20Playwright%20%7C%20Python-5F0F99?style=for-the-badge&logo=python&logoColor=white" />
+</a> &nbsp;
+
 <a href="https://github.com/JeffersomSchissler/django_Estoque">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-Sistema%20Estoque%20%7C%20Django%20%7C%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ver%20Projeto-Sistema%20Estoque%20%7C%20Django%20%7C%20Python-2A9D8F?style=for-the-badge&logo=python&logoColor=white" />
 </a> &nbsp;
 
 ### 📊 Projetos de BI
@@ -37,7 +39,7 @@ Também curto o lado **visual e interativo** do desenvolvimento web.
   <img src="https://img.shields.io/badge/Ver%20Projeto-Interface-67459F?style=for-the-badge&logo=HTML5&logoColor=white" />
 </a> &nbsp;
 <a href="https://github.com/JeffersomSchissler/todo-js">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-To--do%20List-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ver%20Projeto-To--do%20List-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
 
 ---
