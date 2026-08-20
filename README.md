@@ -43,13 +43,6 @@ Apaixonado por **dados, automação e inteligência artificial**, gosto de trans
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=JeffersomSchissler&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersomSchissler&layout=compact&langs_count=9&theme=tokyonight"/>
-</div> &nbsp;
-
----
-
 ## 📫 Contatos e Redes
 
 <a href="https://www.linkedin.com/in/jeffersom-schissler-junior-1b5a05260/" target="_blank">
