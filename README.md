@@ -1,13 +1,11 @@
 # 👩🏻‍💻 Jeffersom Schissler
 
-**`Desenvolvedor Python`**
+**`Engenheiro de Dados Junior`**
 
 Olá! Sou **Jeffersom Schissler**, tenho 19 anos e sou de **Pato Branco (PR)**.  
 Sou **Desenvolvedor Python** e estudante de **Análise e Desenvolvimento de Sistemas** na **UTFPR**.  
 
 Apaixonado por **dados, automação e inteligência artificial**, gosto de transformar informação em soluções inteligentes.  
-Também curto o lado **visual e interativo** do desenvolvimento web.
-
 ---
 
 ## 🚀 Projetos
