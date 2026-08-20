@@ -14,10 +14,6 @@ Apaixonado por **dados, automação e inteligência artificial**, gosto de trans
   <img src="https://img.shields.io/badge/Ver%20Projeto-Calculadora%20Python-3A86FF?style=for-the-badge&logo=python&logoColor=white" />
 </a> &nbsp;
 
-<a href="https://github.com/JeffersomSchissler/testeQA">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-Automação%20%7C%20Playwright%20%7C%20Python-5F0F99?style=for-the-badge&logo=python&logoColor=white" />
-</a> &nbsp;
-
 <a href="https://github.com/JeffersomSchissler/django_Estoque">
   <img src="https://img.shields.io/badge/Ver%20Projeto-Sistema%20Estoque%20%7C%20Django%20%7C%20Python-2A9D8F?style=for-the-badge&logo=python&logoColor=white" />
 </a> &nbsp;
@@ -28,16 +24,6 @@ Apaixonado por **dados, automação e inteligência artificial**, gosto de trans
 </a> &nbsp;
 <a href="https://github.com/JeffersomSchissler/Analise-de-Dados-Python">
   <img src="https://img.shields.io/badge/Ver%20Projeto-An%C3%A1lise%20de%20Dados-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-
----
-
-### 💻 Projetos Front-end
-<a href="https://github.com/JeffersomSchissler/Interface-para-Site-de-filmes">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-Interface-67459F?style=for-the-badge&logo=HTML5&logoColor=white" />
-</a> &nbsp;
-<a href="https://github.com/JeffersomSchissler/todo-js">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-To--do%20List-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
 
 ---
