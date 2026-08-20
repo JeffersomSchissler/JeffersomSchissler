@@ -34,13 +34,6 @@ Apaixonado por **dados, automação e inteligência artificial**, gosto de trans
 
 <img alt="Python" title="Python" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img alt="Django" title="Django" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-<img alt="JavaScript" title="JavaScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img alt="React" title="React" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img alt="HTML5" title="HTML5" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img alt="CSS3" title="CSS3" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img alt="TailwindCSS" title="TailwindCSS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-<img alt="Bootstrap" title="Bootstrap" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img alt="SASS" title="SASS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
 <img alt="Git" title="Git" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img alt="Java" title="Java" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img alt="C" title="C" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
